@@ -1,5 +1,10 @@
 # genesis
+
 #include<stdio.h>
+int sum(int,int);
+int diff(int,int);
+int mul(int,int);
+int div(int,int);
 int main()
 {
 int a,b,c,d,e,f;
